@@ -133,6 +133,17 @@
         "show_vendor": false,
         "show_view_all": false
       }
+    },
+    "b3f12a2e-4314-4661-8688-37210456d400": {
+      "type": "feature-row",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Preppers_UK_600x_c518e2ed-fa46-4d60-ba23-4932328fe7cc.webp",
+        "layout": "left",
+        "title": "Why Choose State Of Survival?",
+        "text": "<p>So, you've absorbed all the information, perused our product offerings, and made the decision to embark on or enhance your journey as a prepper. \"State of Survival\" is the perfect company for you. We bring knowledge, down-to-earth expertise, and a commitment to delivering high-quality products to equip preppers for any challenge. Our dedication to this fascinating hobby and lifestyle is unwavering.<br\/><br\/>We're here to provide you with valuable, no-cost advice on how to kickstart your prepping journey, and we're more than willing to assist anyone in need. We take pride in offering our customers a dependable and efficient service, with the goal of helping you prepare for the uncertainties of the future. Be sure to check our website regularly as we continue to expand our product range.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
@@ -142,6 +153,7 @@
     "hero-2",
     "quotes",
     "image-bar",
-    "7734528c-18b9-4158-8826-7abacb41ee88"
+    "7734528c-18b9-4158-8826-7abacb41ee88",
+    "b3f12a2e-4314-4661-8688-37210456d400"
   ]
 }
