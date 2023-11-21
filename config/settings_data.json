@@ -1,16 +1,13 @@
 {
   "current": {
+    "checkout_logo_image": "shopify:\/\/shop_images\/Dark-Logo.png",
+    "checkout_logo_size": "large",
     "sections": {
       "header": {
         "type": "header",
         "settings": {
-        }
-      },
-      "hero-1": {
-        "type": "hero",
-        "settings": {
-          "hero_size": "large",
-          "text_size": "large"
+          "color_bg": "#3a3a3a",
+          "color_text": "#ffffff"
         }
       },
       "feature-row": {
@@ -50,12 +47,6 @@
         "type": "collection",
         "settings": {
           "grid": 4
-        }
-      },
-      "hero-2": {
-        "type": "hero",
-        "settings": {
-          "text_size": "large"
         }
       },
       "quotes": {
@@ -132,10 +123,15 @@
           "footer-1"
         ],
         "settings": {
-          "show_payment_icons": true
+          "show_payment_icons": true,
+          "color_footer_bg": "#f6f6f6",
+          "color_footer_text": "#333232"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
@@ -143,6 +139,8 @@
         "header": {
           "type": "header",
           "settings": {
+            "color_bg": "#3a3a3a",
+            "color_text": "#ffffff"
           }
         },
         "hero-1": {
@@ -271,7 +269,9 @@
             "footer-1"
           ],
           "settings": {
-            "show_payment_icons": true
+            "show_payment_icons": true,
+            "color_footer_bg": "#f6f6f6",
+            "color_footer_text": "#333232"
           }
         }
       }
