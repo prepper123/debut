@@ -129,11 +129,19 @@
             "settings": {
               "title": "Newsletter"
             }
+          },
+          "5215c116-76eb-4c84-8f69-f15bf4524c97": {
+            "type": "text",
+            "settings": {
+              "title": "Contact",
+              "text": "<p>Phone: <strong>+1 (800) 536-8174<\/strong><\/p><p>Email: <strong>Hello@stateofsurvivalgear.com<\/strong><\/p>"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1"
+          "footer-1",
+          "5215c116-76eb-4c84-8f69-f15bf4524c97"
         ],
         "settings": {
           "show_payment_icons": true,
