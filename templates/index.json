@@ -14,13 +14,22 @@
         "button_link": ""
       }
     },
+    "737fd6d1-5ca4-4030-8e06-78d763178718": {
+      "type": "rich-text",
+      "settings": {
+        "full_width": true,
+        "section_title": "",
+        "text": "<h1>YOUR ONE STOP PREPPER SHOP FOR RESILIENCE, PREPAREDNESS AND SURVIVAL!<\/h1>",
+        "text_size": "small"
+      }
+    },
     "feature-row": {
       "type": "feature-row",
       "settings": {
         "image": "shopify:\/\/shop_images\/Prepper_Gear_600x_a49780f0-624e-4f48-a317-d643f6817ead.webp",
         "layout": "left",
         "title": "PREPPERS SHOP & SURVIVAL GEAR",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+        "text": "<p>Welcome to \"State Of Survival\" – your ultimate prepper destination for resilience, preparedness, and survival. Prepping has gained increasing popularity and importance, particularly in light of recent events like the COVID-19 pandemic. These events serve as reminders of the unpredictability of life.<\/p><p>At \"State Of Survival,\" our mission is to guide you into the world of prepping, ensuring you're well-equipped to face any challenges that may arise. Whether it's the need to evacuate your home or hunker down for extended periods, our UK-based store is committed to meeting your unique requirements.<\/p><p>We offer a wide range of top-notch prepper supplies, including emergency survival food, crossbows, survival kits, prepping bundles, shelter solutions, tarps, camping gear, and much more. We hope you find your visit to our website both informative and enjoyable, and we encourage you to stay updated with the continually expanding content we provide.<\/p>",
         "button_label": "",
         "button_link": ""
       }
@@ -167,6 +176,7 @@
   },
   "order": [
     "hero-1",
+    "737fd6d1-5ca4-4030-8e06-78d763178718",
     "feature-row",
     "feature-columns",
     "collection",
