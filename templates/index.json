@@ -17,8 +17,9 @@
     "feature-row": {
       "type": "feature-row",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Prepper_Gear_600x_a49780f0-624e-4f48-a317-d643f6817ead.webp",
         "layout": "left",
-        "title": "Image with text",
+        "title": "PREPPERS SHOP & SURVIVAL GEAR",
         "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
         "button_label": "",
         "button_link": ""
