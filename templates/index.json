@@ -14,15 +14,6 @@
         "button_link": ""
       }
     },
-    "737fd6d1-5ca4-4030-8e06-78d763178718": {
-      "type": "rich-text",
-      "settings": {
-        "full_width": true,
-        "section_title": "",
-        "text": "<h1>YOUR ONE STOP PREPPER SHOP FOR RESILIENCE, PREPAREDNESS AND SURVIVAL!<\/h1>",
-        "text_size": "small"
-      }
-    },
     "feature-row": {
       "type": "feature-row",
       "settings": {
@@ -34,57 +25,13 @@
         "button_link": ""
       }
     },
-    "feature-columns": {
-      "type": "feature-columns",
-      "blocks": {
-        "feature-columns-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "feature-columns-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "feature-columns-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "feature-columns-0",
-        "feature-columns-1",
-        "feature-columns-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "left"
-      }
-    },
     "collection": {
       "type": "collection",
       "settings": {
         "title": "Featured collection",
         "collection": "",
         "grid": 4,
-        "rows": 2,
+        "rows": 1,
         "show_vendor": false,
         "show_view_all": false
       }
@@ -92,12 +39,13 @@
     "hero-2": {
       "type": "hero",
       "settings": {
+        "image": "shopify:\/\/shop_images\/Prepping_UK.webp",
         "alignment": "center",
         "hero_layout": "full_width",
-        "hero_size": "medium",
+        "hero_size": "large",
         "text_size": "large",
-        "title": "Image with text overlay",
-        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "title": "Equip for the unexpected - Gear up for survival.",
+        "text": "<p>Why State Of Survival? We have high quality products to offer and our aim is to get a prepper prepared for anything. <\/p>",
         "button_label": "",
         "button_link": ""
       }
@@ -132,6 +80,7 @@
         "quotes-1",
         "quotes-2"
       ],
+      "disabled": true,
       "settings": {
         "title": ""
       }
@@ -169,19 +118,30 @@
         "image-bar-1",
         "image-bar-2"
       ],
+      "disabled": true,
       "settings": {
         "section_height": "medium"
+      }
+    },
+    "7734528c-18b9-4158-8826-7abacb41ee88": {
+      "type": "collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "",
+        "grid": 4,
+        "rows": 1,
+        "show_vendor": false,
+        "show_view_all": false
       }
     }
   },
   "order": [
     "hero-1",
-    "737fd6d1-5ca4-4030-8e06-78d763178718",
     "feature-row",
-    "feature-columns",
     "collection",
     "hero-2",
     "quotes",
-    "image-bar"
+    "image-bar",
+    "7734528c-18b9-4158-8826-7abacb41ee88"
   ]
 }
